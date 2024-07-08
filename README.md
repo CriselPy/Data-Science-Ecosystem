@@ -1,8 +1,8 @@
 # Data Science Tools and Ecosystem
 
-![Header Image](https://github.com/Criselpy/Data-Science-Ecosystem/raw/main/header-image.png) <!-- Puedes agregar una imagen de encabezado atractiva aquí -->
+![Header Image](https://github.com/Criselpy/Data-Science-Ecosystem/raw/main/header-image.jpg) <!-- Puedes agregar una imagen de encabezado atractiva aquí -->
 
-Bienvenidos a mi proyecto final del curso de Ciencia de Datos. Este cuaderno Jupyter resume algunas de las herramientas y ecosistemas más importantes utilizados en Ciencia de Datos.
+Bienvenidos al repositorio del proyecto evaluable del módulo 6 de uno de los curso de Ciencia de Datos de IBM. Este cuaderno Jupyter resume algunas de las herramientas y ecosistemas más importantes utilizados en Ciencia de Datos que hemos comenzado a usar y a aprender en el curso.
 
 ## Tabla de Contenidos
 
@@ -77,7 +77,13 @@ A continuación se encuentran las capturas de pantalla que demuestran el conteni
 - **Objetivos del Cuaderno**: ![Objetivos del Cuaderno](https://github.com/Criselpy/Data-Science-Ecosystem/raw/main/10-objectives.png)
 - **Autor**: ![Autor](https://github.com/Criselpy/Data-Science-Ecosystem/raw/main/11-authordetails.png)
 
+## Capturas de Pantalla
+
+- **Primera Página del Cuaderno**: ![Primera Página del Cuaderno](https://github.com/Criselpy/Data-Science-Ecosystem/raw/main/1-notebook.png)
+
 ## Cómo Ejecutar este Cuaderno
+
+Para ejecutar este cuaderno en tu entorno local, sigue estos pasos:
 
 1. Clona el repositorio:
    ```bash
