@@ -17,6 +17,7 @@ Bienvenidos al repositorio del proyecto evaluable del módulo 6 de uno de los cu
 9. [Objetivos del Cuaderno](#objetivos-del-cuaderno)
 10. [Autor](#autor)
 11. [Capturas de Pantalla](#capturas-de-pantalla)
+12. [Cómo Ejecutar este Cuaderno](#cómo-ejecutar-este-cuaderno)
 
 ## Título del Cuaderno
 
