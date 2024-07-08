@@ -1,6 +1,6 @@
 # Data Science Tools and Ecosystem
 
-![Header Image](https://github.com/Criselpy/Data-Science-Ecosystem/raw/main/header-image.jpg) <!-- Puedes agregar una imagen de encabezado atractiva aquí -->
+![Header Image](https://github.com/Criselpy/Data-Science-Ecosystem/raw/main/header-image.jpeg) <!-- Puedes agregar una imagen de encabezado atractiva aquí -->
 
 Bienvenidos al repositorio del proyecto evaluable del módulo 6 de uno de los curso de Ciencia de Datos de IBM. Este cuaderno Jupyter resume algunas de las herramientas y ecosistemas más importantes utilizados en Ciencia de Datos que hemos comenzado a usar y a aprender en el curso.
 
