@@ -63,6 +63,11 @@ Bienvenidos al repositorio del proyecto evaluable del módulo 6 de uno de los cu
 
 ![Autor](https://github.com/Criselpy/Data-Science-Ecosystem/raw/main/11-authordetails.png)
 
+## Primera Página del Cuaderno
+
+![Primera Página del Cuaderno](https://github.com/Criselpy/Data-Science-Ecosystem/raw/main/1-notebook.png)
+
+
 ## Capturas de Pantalla
 
 A continuación se encuentran las capturas de pantalla que demuestran el contenido del cuaderno:
@@ -77,9 +82,6 @@ A continuación se encuentran las capturas de pantalla que demuestran el conteni
 - **Conversión de Unidades**: ![Minutos a Horas](https://github.com/Criselpy/Data-Science-Ecosystem/raw/main/9-hourstominutes.png)
 - **Objetivos del Cuaderno**: ![Objetivos del Cuaderno](https://github.com/Criselpy/Data-Science-Ecosystem/raw/main/10-objectives.png)
 - **Autor**: ![Autor](https://github.com/Criselpy/Data-Science-Ecosystem/raw/main/11-authordetails.png)
-
-## Capturas de Pantalla
-
 - **Primera Página del Cuaderno**: ![Primera Página del Cuaderno](https://github.com/Criselpy/Data-Science-Ecosystem/raw/main/1-notebook.png)
 
 ## Cómo Ejecutar este Cuaderno
