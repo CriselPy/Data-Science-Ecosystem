@@ -91,3 +91,5 @@ Para ejecutar este cuaderno en tu entorno local, sigue estos pasos:
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/Criselpy/Data-Science-Ecosystem.git
+2. Mira el archivo aqui:
+https://github.com/CriselPy/Data-Science-Ecosystem/blob/main/DataScienceEcosystem.ipynb
